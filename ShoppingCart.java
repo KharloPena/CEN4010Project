@@ -29,4 +29,6 @@ public class ShoppingCart extends Wishlist {
     public void setScName(String scNameName) {
         this.scNameName = scName;
     }
+
+//Changes for funsies
 }
